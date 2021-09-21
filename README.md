@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 YANGSIWAN
 ===========
 ### WHO AM I ?
-##### I wanna be a influential software engineer, and I'm majored in C.S at HGU. I love sharing my experience and learning knowlege related to C.S.
+I wanna be a influential software engineer, and I'm majored in C.S at HGU. I love sharing my experience and learning knowlege related to C.S.
 ##### ⚡ Fun fact: I love drawing 🖌️
 
 #### 💻 Tech Stack 💻
