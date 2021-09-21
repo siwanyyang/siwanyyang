@@ -15,6 +15,11 @@ YANGSIWAN
 ===========
 ### WHO AM I ?
 I wanna be a influential software engineer, and I'm majored in C.S at HGU. I love sharing my experience and learning knowlege related to C.S.
+This is the place where I opensource stuff and break things!
+- 🔭 I’m currently working on something cool 😊
+- 🌱 I’m currently learning GO, Vanilla JS.
+- 💬 Ask me about C/C++, Python, HTML/CSS.
+- ⚡ Fun fact: I LOVE PAINTINGS ! Generally, claud monet.
 
 #### 💻 Tech Stack 💻
 ---------------------
