@@ -18,4 +18,5 @@ Who am I ?
 
 ### 🌸 YANG SI WAN 🌸
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:swy12190@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jejus-never-fail.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
