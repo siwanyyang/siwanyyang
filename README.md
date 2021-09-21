@@ -10,13 +10,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 YANGSIWAN
 ===========
-Hi, my name is Yangsiwan. I'm Software Engineer.
+#### WHO AM I ?
+I wanna be a influential software engineer, and I'm majored in C.S at HGU. 
+I love sharing my experience and learning knowlege related to C.S.
+- ⚡ Fun fact: I love drawing 🖌️
 
-#### 💻 Tech I'v ever used 💻
+#### 💻 Tech Stack 💻
+
 
 #### 🌸 GET IN TOUCH 🌸
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jesus-never-fail.tistory.com/)
