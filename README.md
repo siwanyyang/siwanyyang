@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things!
 - ⚡ Fun fact: I LOVE PAINTINGS ! Generally, claud monet.
 
 #### 💻 Tech Stack 💻
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ---------------------
 #### 🏅 ALGORITHM 🏅
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swany)](https://solved.ac/profile/swany)
