@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FF7F50&height=300&section=header&text=Yang%20siwan&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF7F50&height=200&section=header&text=Yang%20siwan&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
 
