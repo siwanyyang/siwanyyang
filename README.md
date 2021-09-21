@@ -33,11 +33,6 @@ This is the place where I opensource stuff and break things!
 #### Framework
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
----------------------
-### 🏅 ALGORITHM 🏅
-#### Baekjoon Online Judge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swany)](https://solved.ac/profile/swany)
-
 -------------------------
 #### 📲 GET IN TOUCH & SOCIAL 📲
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jesus-never-fail.tistory.com/).
@@ -45,5 +40,7 @@ This is the place where I opensource stuff and break things!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=capsule%20render&fontSize=90)
+---------
+#### Baekjoon Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swany)](https://solved.ac/profile/swany)
 
