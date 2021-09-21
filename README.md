@@ -34,7 +34,8 @@ This is the place where I opensource stuff and break things!
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---------------------
-#### 🏅 ALGORITHM 🏅
+### 🏅 ALGORITHM 🏅
+#### Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swany)](https://solved.ac/profile/swany)
 
 -------------------------
