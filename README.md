@@ -43,6 +43,6 @@ This is the place where I opensource stuff and break things!
 #### Baekjoon Online Judge(ALGORITHM)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swany)](https://solved.ac/profile/swany) 
 #### Github Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=gradient)
 
 
