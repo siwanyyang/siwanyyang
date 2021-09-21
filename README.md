@@ -44,7 +44,6 @@ This is the place where I opensource stuff and break things!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swany)](https://solved.ac/profile/swany) 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
