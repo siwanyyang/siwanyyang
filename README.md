@@ -22,12 +22,10 @@ This is the place where I opensource stuff and break things!
 - ⚡ Fun fact: I LOVE DRAWING 🎨
 
 #### 💻 Languages & Tools 💻 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C" width="26px" src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/n6ZOY/btraCjV4A90/ltnLJ3HpgRR4bjGDJQ9BRK/img.png" />
+<a href="https://www.java.com/ko/" target="_blank"> <img src="https://lbroccolies.files.wordpress.com/2021/04/image-12.png?w=793" alt="java" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+ <br>
 -------------------------
 #### 📲 Connected with me 📲
 <a href="https://instagram.com/s_wanbly"><img align="left" alt="vibhorchaudhary | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
