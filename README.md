@@ -33,15 +33,12 @@ This is the place where I opensource stuff and break things!
 <a href="https://instagram.com/s_wanbly"><img align="left" alt="vibhorchaudhary | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025947200062"><img align="left" alt="vibhorchaudhary | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://github.com/siwanyyang"><img align="left" alt="vibhorchaudhary | GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://solved.ac/profile/swany"><img align="left" alt="vibhorchaudhary | BOJ" width="26px" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/boj-og-1200.png" /></a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://jejus-never-fail.tistory.com"><img align="left" alt="vibhorchaudhary | BOJ" width="26px" src="https://t1.daumcdn.net/cfile/tistory/99A631395C3448420F" /></a>
 
 ---------
-#### Baekjoon Online Judge(ALGORITHM)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swany)](https://solved.ac/profile/swany) 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=buefy)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
