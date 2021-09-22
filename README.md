@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things!
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c.png" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://media.vlpt.us/images/milkyway/post/4b6bec16-34ed-4d40-acb7-23d596bb497e/HTML%20logo.jpeg" alt="html" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://heropy.blog/css/images/vendor_icons/html5.png" alt="html" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <br>
 -------------------------
