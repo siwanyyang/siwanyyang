@@ -30,9 +30,9 @@ This is the place where I opensource stuff and break things!
 
 -------------------------
 ### 📲 Connected with me 📲
-<a href="https://instagram.com/s_wanbly"><img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/profile.php?id=100025947200062"><img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://github.com/siwanyyang"><img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://instagram.com/s_wanbly"><img align="left" alt="vibhorchaudhary | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/profile.php?id=100025947200062"><img align="left" alt="vibhorchaudhary | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://github.com/siwanyyang"><img align="left" alt="vibhorchaudhary | GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
