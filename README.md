@@ -21,7 +21,7 @@ This is the place where I opensource stuff and break things!
 - 💬 Ask me about C/C++, Python, HTML/CSS.
 - ⚡ Fun fact: I LOVE DRAWING 🎨
 
-#### 💻 Languages & Tools 💻 
+#### 💻 Languages & Tools 
 <a href="https://www.java.com/ko/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -30,7 +30,7 @@ This is the place where I opensource stuff and break things!
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <br>
 -------------------------
-#### 📲 Connected with me 📲
+#### ☎️ Connected with me
 <a href="https://instagram.com/s_wanbly"><img align="left" alt="vibhorchaudhary | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025947200062"><img align="left" alt="vibhorchaudhary | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://github.com/siwanyyang"><img align="left" alt="vibhorchaudhary | GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
@@ -38,7 +38,7 @@ This is the place where I opensource stuff and break things!
  <br><br>
 ----------------------------
 
-#### Github Stats
+#### 🌟 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=buefy)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=swany)](https://solved.ac/profile/swany)
