@@ -21,15 +21,14 @@ This is the place where I opensource stuff and break things!
 - 💬 Ask me about C/C++, Python, HTML/CSS.
 - ⚡ Fun fact: I LOVE DRAWING 🎨
 
-### 💻 Languages & Tools 💻 
+#### 💻 Languages & Tools 💻 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C" width="26px" src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/n6ZOY/btraCjV4A90/ltnLJ3HpgRR4bjGDJQ9BRK/img.png" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-
 -------------------------
-### 📲 Connected with me 📲
+#### 📲 Connected with me 📲
 <a href="https://instagram.com/s_wanbly"><img align="left" alt="vibhorchaudhary | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025947200062"><img align="left" alt="vibhorchaudhary | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://github.com/siwanyyang"><img align="left" alt="vibhorchaudhary | GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
