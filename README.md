@@ -18,7 +18,7 @@ I wanna be a influential software engineer, and I'm majored in C.S at HGU. I lov
 This is the place where I opensource stuff and break things!
 - 🔭 I’m currently working on something cool 😙
 - 🌱 I’m currently learning GO, Vanilla JS.
-- 💬 Ask me about C/C++, Python, HTML/CSS.
+- 💬 Ask me about C/C++, Python, HTML/CSS, JS.
 - ⚡ Fun fact: I LOVE DRAWING 🎨
 
 #### 💻 Languages & Tools 
