@@ -24,7 +24,9 @@ This is the place where I open source stuff and break things!
 
 ### 📊 Github Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang&layout=)](https://github.com/siwanyyang)
+<div class="pull-left">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=default)</div> 
+<dic class="pull-right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+
 
 
 #### 💜 Languages & Tools 
