@@ -40,6 +40,7 @@ This is the place where I opensource stuff and break things!
 
 #### 🌟 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=buefy)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang)](https://github.com/anuraghazra/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=swany)](https://solved.ac/profile/swany)
 
