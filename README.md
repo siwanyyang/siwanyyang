@@ -23,7 +23,11 @@ This is the place where I open source stuff and break things!
 - 💻 My Tech-Study Blog **https://jesus-never-fail.tistory.com/**
 
 ### 📊 Github Stats #
-
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang&layout=demo&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
