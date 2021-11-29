@@ -24,7 +24,7 @@ This is the place where I open source stuff and break things!
 
 ### 📊 Github Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=buefy)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=gradient)<br>
 
 #### 💜 Languages & Tools 
 <a href="https://www.java.com/ko/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
