@@ -20,10 +20,11 @@ This is the place where I open source stuff and break things!
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **C/C++, HTML/CSS, JS.**
 - 📫 Reach me at **swy12190@gmail.com**
+- 💻 My Tech-Study Blog **https://jesus-never-fail.tistory.com/**
 
-### 📊 Github Stats
+### 📊 Github Stats 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=buefy)<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiwanyyang&count_bg=%23C68AE1&title_bg=%23555555&icon=&icon_color=%23949494&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 💜 Languages & Tools 
 <a href="https://www.java.com/ko/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
