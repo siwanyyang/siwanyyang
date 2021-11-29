@@ -22,8 +22,8 @@ This is the place where I open source stuff and break things!
 - 📫 Reach me at **swy12190@gmail.com**
 - 💻 My Tech-Study Blog **https://jesus-never-fail.tistory.com/**
 
-### 📊 Github Stats 
-#
+### 📊 Github Stats #
+|------|------|
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
