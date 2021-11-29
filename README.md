@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-HI THERE! 😊
+Hi, welcome to my Github 🍀
 ===========
 ### WHO AM I ?
 I wanna be a influential software engineer, and I'm majored in C.S at HGU. I love sharing my experience and learning knowlege related to NLP and AI.
 This is the place where I opensource stuff and break things!
 - 🔭 I’m currently working on something cool 😙
-- 🌱 I’m currently learning Python 🍀
+- 🌱 I’m currently learning Python🌷
 - 💬 Ask me about C/C++, HTML/CSS, JS.
 - ⚡ Fun fact: I LOVE DRAWING 🎨
 
