@@ -28,9 +28,6 @@ This is the place where I open source stuff and break things!
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwanyyang&show_icons=true&theme=omni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwanyyang&layout=demo&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### 💜 Languages & Tools 
 <a href="https://www.java.com/ko/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
