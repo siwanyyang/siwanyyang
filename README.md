@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 Hi<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35" height="35"/> welcome to my Github
 ===========
 ### WHO AM I ?
-Hi, I'm a undergraduate computer science student at Handong Global University, Korea.
-I'm interested in **NLP**, **Deep Learning**, **Software Engineering**, **Front-end & Back-end Programming**.
+Hi, I'm a undergraduate computer science student at Handong Global University, Korea. 
+I'm interested in **NLP**, **Deep Learning**, **Software Engineering**, **Front-end & Back-end Programming**. 
 This is the place where I open source stuff and break things!
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **C/C++, HTML/CSS, JS.**
